@@ -294,9 +294,10 @@ A hackathon challenge on Kaggle using Google's Gemma model for social good proje
  
 | Name | Role / Affiliation |
 |---|---|
-| **Pignatelli** | Data Scientist at INGV (Istituto Nazionale di Geofisica e Vulcanologia) |
+| **Alessandro P** | Presenter / Contributor |
 | **Antonio** | Presenter / Contributor |
 | **Luigi** | Presenter / Contributor |
+| **Piergiacomo** | Presenter / Contributor |
  
 ---
  
