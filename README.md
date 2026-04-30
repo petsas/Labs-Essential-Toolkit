@@ -1,4 +1,4 @@
-# 🛠️ Health AI Labs Essential Toolbox
+# 🛠️ Health AI Labs Essential Toolkit
  
 > A curated reference of all tools presented and discussed at our hack event.
 > Use this as a starting point for future hackathons and MVPs.
