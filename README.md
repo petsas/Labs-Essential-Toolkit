@@ -1,4 +1,4 @@
-# 🛠️ AI Hack Event — Tools Toolbox
+# 🛠️ Health AI Labs Essential Toolbox
  
 > A curated reference of all tools presented and discussed at our hack event.
 > Use this as a starting point for future hackathons and MVPs.
@@ -298,6 +298,7 @@ A hackathon challenge on Kaggle using Google's Gemma model for social good proje
 | **Antonio** | Presenter / Contributor |
 | **Luigi** | Presenter / Contributor |
 | **Piergiacomo** | Presenter / Contributor |
+| **Nikolas** | Presenter / Contributor |
  
 ---
  
